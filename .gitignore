@@ -1,1 +1,3 @@
 envs/*
+*.csv
+Data_Dictionary.md
