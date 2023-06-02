@@ -1,3 +1,6 @@
 envs/*
 *.csv
 Data_Dictionary.md
+.ipynb_checkpoints/*
+data_dict.ipynb
+scratchpad.ipynb
